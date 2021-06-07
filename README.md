@@ -1,7 +1,9 @@
-# A Project under Consulting and Analytics Club , IITG
+# A project under Consulting and Analytics Club , IITG
 
-EDA
-Data wrangling
-Data Analysis
-Decision Making
+This project involves basics of:
+
+1. EDA
+2. Data wrangling
+3. Data Analysis
+4. Decision Making
 
